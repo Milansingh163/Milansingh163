@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaviabbugari&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaviabbugari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaviabbugari" alt="vaishnaviabbugari" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaishnaviabbugari](https://github.com/vaishnaviabbugari)
@@ -16,6 +14,9 @@
 - 💬 Ask me about **data analytics,data science**
 
 - 📫 How to reach me **abbugarivaishnavi@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaviabbugari" alt="vaishnaviabbugari" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
