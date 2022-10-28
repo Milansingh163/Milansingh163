@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/vaishnaviabbugari](https://www.linkedin.com/in/vaishnaviabbugari)
 
-- 💬 Ask me about **data analytics,data science**
+- 💬 Ask me about **data analytics, data science**
 
 - 📫 How to reach me **abbugarivaishnavi@gmail.com**
 
