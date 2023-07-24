@@ -4,7 +4,7 @@
 <h3 align="center">A passionate data scientist</h3>
 <img align="right" alt="Coding" width="400" src= https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=Milansingh163&label=PROFILE+VIEWS)" alt="MilanSingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Milansingh163&label=PROFILE+VIEWS" alt="MilanSingh" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
 
