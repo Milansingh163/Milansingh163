@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vaishnaviabbugari](https://github.com/vaishnaviabbugari)
+- 👨‍💻 All of my projects are available at [https://github.com/Milansingh163](https://github.com/Milansingh163)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/milan-singh-78a6a8129/](https://www.linkedin.com/in/milan-singh-78a6a8129/)
 
