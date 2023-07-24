@@ -1,6 +1,6 @@
 <p align="center">
-    <img width="800" src="https://datanatives.io/wp-content/uploads/2022/06/GtG_small_banner_2.gif)" alt="Material Bread logo"> </p>
-<h1 align="center">Hi 👋, I'm vaishnavi abbugari</h1>
+    <img width="800" src="https://media.licdn.com/dms/image/C4D12AQFKRQOp_aXz0g/article-cover_image-shrink_600_2000/0/1577211633664?e=2147483647&v=beta&t=pZ5TdXalXICIqPXTDBX6NP-CYlGS3wE2Kn6y1XiYjHI" alt="Material Bread logo"> </p>
+<h1 align="center">Hi 👋, I'm Milan Singh</h1>
 <h3 align="center">A passionate data scientist</h3>
 <img align="right" alt="Coding" width="400" src= https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
 
@@ -10,15 +10,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaishnaviabbugari](https://github.com/vaishnaviabbugari)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/vaishnaviabbugari](https://www.linkedin.com/in/vaishnaviabbugari)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/milan-singh-78a6a8129/](https://www.linkedin.com/in/milan-singh-78a6a8129/)
 
-- 💬 Ask me about **data analytics, data science**
+- 💬 Ask me about **Machine Learning| Natural Language Processing**
 
-- 📫 How to reach me **abbugarivaishnavi@gmail.com**
+- 📫 How to reach me **milansingh163@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaishnaviabbugari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnaviabbugari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/milan-singh-78a6a8129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnaviabbugari" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaviabbugari" alt="vaishnaviabbugari" /></a> </p>
