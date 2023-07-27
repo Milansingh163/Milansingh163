@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Milansingh163&show_icons=true&theme=radical" alt="milan Singh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnaviabbugari&show_icons=true&locale=en" alt="vaishnaviabbugari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Milansingh163&show_icons=true&locale=en" alt="MilanSingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnaviabbugari&" alt="vaishnaviabbugari" /></p>
