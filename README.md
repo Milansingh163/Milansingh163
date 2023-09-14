@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Milansingh163&label=PROFILE+VIEWS" alt="MilanSingh163" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
+- 🌱 I am a ** Software Test Engineer/ QA Engineer/Complaince Test engineer **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Milansingh163](https://github.com/Milansingh163)
 
