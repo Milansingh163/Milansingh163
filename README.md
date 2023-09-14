@@ -1,18 +1,18 @@
 <p align="center">
     <img width="500" src="https://media.licdn.com/dms/image/C4D12AQFKRQOp_aXz0g/article-cover_image-shrink_600_2000/0/1577211633664?e=2147483647&v=beta&t=pZ5TdXalXICIqPXTDBX6NP-CYlGS3wE2Kn6y1XiYjHI" alt="Material Bread logo"> </p>
 <h1 align="center">Hi 👋, I'm Milan Singh</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">A passionate Learner</h3>
 <img align="right" alt="Coding" width="400" src= https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Milansingh163&label=PROFILE+VIEWS" alt="MilanSingh163" /> </p>
 
-- 🌱 I am a ** Software Test Engineer/ QA Engineer/Complaince Test engineer **
+- 🌱 I am a **Software Test Engineer/ QA Engineer/Complaince Test engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Milansingh163](https://github.com/Milansingh163)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/milan-singh-78a6a8129/](https://www.linkedin.com/in/milan-singh-78a6a8129/)
 
-- 💬 Ask me about **Machine Learning| Natural Language Processing**
+- 💬 Ask me about **Python Automation | Manual Testing | Software Testing**
 
 - 📫 How to reach me **milansingh163@gmail.com**
 
