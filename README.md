@@ -1,5 +1,7 @@
+<!-- This is a comment 
 <p align="center">
     <img width="500" src="https://media.licdn.com/dms/image/C4D12AQFKRQOp_aXz0g/article-cover_image-shrink_600_2000/0/1577211633664?e=2147483647&v=beta&t=pZ5TdXalXICIqPXTDBX6NP-CYlGS3wE2Kn6y1XiYjHI" alt="Material Bread logo"> </p>
+-->
 <h1 align="center">Hi 👋, I'm Milan Singh</h1>
 <h3 align="center">A passionate Learner</h3>
 <img align="right" alt="Coding" width="400" src= https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
