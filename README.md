@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan Singh</h1>
 <h3 align="center">A passionate Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Milansingh163&label=PROFILE+VIEWS" alt="MilanSingh163" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Milansingh163&label=PROFILE+VIEWS" alt="MilanSingh" /> </p>
 
 - 🌱 I am a **Software Test Engineer/ QA Engineer/Complaince Test engineer**
 
