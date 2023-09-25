@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/milan-singh-78a6a8129/](https://www.linkedin.com/in/milan-singh-78a6a8129/)
 
-- 💬 Ask me about **Python Automation | Manual Testing | Software Testing**
+- 💬 Ask me about **Python Automation Framework | Manual Testing | Software Testing**
 
 - 📫 How to reach me **milansingh163@gmail.com**
 
