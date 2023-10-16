@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Milansingh163&label=PROFILE+VIEWS" alt="MilanSingh" /> </p>
 
-- 🌱 I am a **Software Test Engineer/ QA Engineer/Complaince Test engineer**
+- 🌱 I am a **Software Test Engineer/ QA Engineer/Complaince Test engineer/Machine Learing and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Milansingh163](https://github.com/Milansingh163)
 
